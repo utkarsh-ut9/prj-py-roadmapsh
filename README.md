@@ -1,2 +1,3 @@
-# prj-py-roadmapsh
-Mini Python Projects listed over roadmap.sh/backend/projects
+# Python Mini Projects | roadmap.sh
+
+Implementing the projects listed over at https://roadmap.sh/backend/projects 
